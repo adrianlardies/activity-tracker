@@ -13,4 +13,4 @@ REM Hacer un commit con un mensaje automático
 git commit -m "Actualización automática: %date% %time%"
 
 REM Enviar los cambios al repositorio remoto
-git push origin main
+git push origin main_
